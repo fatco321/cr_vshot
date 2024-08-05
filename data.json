@@ -58,7 +58,7 @@
 		"date": "22.08.2024",
 		"time": "10:00",
 		"city": "Москва",
-		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производсте»",
+		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производстве»",
 		"teacher_name": "Кизиков Дмитрий",
 		"description": "Инструктор по ПП Российского Красного Креста, спасатель 1-го класса МЧС России",
 		"link_offline": "https://seminar.trudohrana.ru/seminar/46298-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve",
@@ -113,12 +113,12 @@
 		"date": "27.08.2024",
 		"time": "10:00",
 		"city": "Москва",
-		"lesson_name": " Практическое занятие «Обучение по использованию средств индивидуальной защиты»",
+		"lesson_name": "Практическое занятие «Обучение по использованию средств индивидуальной защиты»",
 		"teacher_name": "Шустов Анатолий",
 		"description": "Преподаватель Высшей школы охраны труда",
 		"link_offline": " https://seminar.trudohrana.ru/seminar/46319-prakticheskoe-zanyatie-obuchenie-po-ispolzovaniyu-sredstv-individualnoy-zashchity ",
 		"link_online": " https://seminar.trudohrana.ru/seminar/46320-prakticheskoe-onlayn-zanyatie-obuchenie-po-ispolzovaniyu-sredstv-individualnoy-zashchity ",
-		"photo": "./ Шустов Анатолий.jpg"
+		"photo": "./Шустов Анатолий.jpg"
 	},
 	{
 		"date": "29.08.2024",
