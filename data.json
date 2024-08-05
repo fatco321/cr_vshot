@@ -1,93 +1,137 @@
-[
-	{
-		"date": "25.07.2024",
-		"time": "10:00",
-		"city": "Краснодар",
-		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производстве»",
-		"teacher_name": "Ясинский Анатолий",
-		"description": "Преподаватель Высшей школы Охраны труда",
-		"link_offline": "https://seminar.trudohrana.ru/seminar/46285-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve-g-krasnodar",
-		"link_online": "",
-		"photo": "./Ясинский Анатолий.jpg"
-	},
-	{
-		"date": "26.07.2024",
-		"time": "10:00",
-		"city": "Екатеринбург",
-		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производстве»",
-		"teacher_name": "Нургалиева Татьяна",
-		"description": "Преподаватель Высшей школы Охраны труда",
-		"link_offline": "https://seminar.trudohrana.ru/seminar/46287-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve-g-ekaterinburg",
-		"link_online": "",
-		"photo": "./Нургалиева Татьяна.png"
-	},
-	{
-		"date": "29.07.2024",
-		"time": "10:00",
-		"city": "Санкт-Петербург",
-		"lesson_name": "Практическое занятие «Безопасные методы и приемы выполнения работ (пп. Б п. 46 ПП РФ №2464)",
-		"teacher_name": "Можейко Ольга",
-		"description": "Преподаватель Высшей школы Охраны труда",
-		"link_offline": "https://seminar.trudohrana.ru/seminar/46283-prakticheskoe-zanyatie-bezopasnye-metody-i-priemy-vypolneniya-rabot-pp-b-p-46-pp-rf-2464-g",
-		"link_online": "",
-		"photo": "./Можейко Ольга.jpg"
-	},
+﻿[
 	{
 		"date": "06.08.2024",
 		"time": "10:00",
 		"city": "Москва",
 		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производстве»",
 		"teacher_name": "Кизиков Дмитрий",
-		"description": "Инструктор по ПП Российского Красного Креста, спасатель 1-го класса МЧС Росси",
+		"description": "Инструктор по ПП Российского Красного Креста, спасатель 1-го класса МЧС России",
 		"link_offline": "https://seminar.trudohrana.ru/seminar/46296-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve",
 		"link_online": "https://seminar.trudohrana.ru/seminar/46297-prakticheskoe-onlayn-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve",
 		"photo": "./Кизиков Дмитрий.jpg"
 	},
-	{
+{
+		"date": "09.08.2024",
+		"time": "10:00",
+		"city": "Краснодар",
+		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производстве»",
+		"teacher_name": "Ясинский Анатолий",
+		"description": "Преподаватель Высшей школы Охраны труда",
+		"link_offline": "https://seminar.trudohrana.ru/seminar/46292-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve-g-krasnodar",
+		"link_online": "",
+		"photo": "./Ясинский Анатолий.jpg"
+	},
+{
+		"date": "09.08.2024",
+		"time": "10:00",
+		"city": "Екатеринбург",
+		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производстве»",
+		"teacher_name": "Быкова Елена",
+		"description": "Преподаватель Высшей школы Охраны труда",
+		"link_offline": "https://seminar.trudohrana.ru/seminar/46294-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve-g-ekaterinburg",
+		"link_online": "",
+		"photo": "./Быкова Елена.png"
+	},
+{
+		"date": "19.08.2024",
+		"time": "10:00",
+		"city": "Санкт-Петербург",
+		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производстве»",
+		"teacher_name": "Можейко Ольга",
+		"description": "Преподаватель Высшей школы Охраны труда",
+		"link_offline": "https://seminar.trudohrana.ru/seminar/46288-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve-g-sankt",
+		"link_online": "",
+		"photo": "./Можейко Ольга.jpg"
+	},
+{
+		"date": "22.08.2024",
+		"time": "10:00",
+		"city": "Краснодар",
+		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производстве»",
+		"teacher_name": "Ясинский Анатолий",
+		"description": "Преподаватель Высшей школы Охраны труда",
+		"link_offline": "https://seminar.trudohrana.ru/seminar/46293-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve-g-krasnodar",
+		"link_online": "",
+		"photo": "./Ясинский Анатолий.jpg"
+	},
+{
+		"date": "22.08.2024",
+		"time": "10:00",
+		"city": "Москва",
+		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производсте»",
+		"teacher_name": "Кизиков Дмитрий",
+		"description": "Инструктор по ПП Российского Красного Креста, спасатель 1-го класса МЧС России",
+		"link_offline": "https://seminar.trudohrana.ru/seminar/46298-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve",
+		"link_online": "https://seminar.trudohrana.ru/seminar/46299-prakticheskoe-onlayn-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve",
+		"photo": "./Кизиков Дмитрий.jpg"
+	},
+{
+		"date": "26.08.2024",
+		"time": "10:00",
+		"city": "Екатеринбург",
+		"lesson_name": "Практическое занятие «Оказание первой помощи пострадавшим на производстве»",
+		"teacher_name": "Быкова Елена",
+		"description": "Преподаватель Высшей школы Охраны труда",
+		"link_offline": "https://seminar.trudohrana.ru/seminar/46295-prakticheskoe-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve-g-ekaterinburg",
+		"link_online": "",
+		"photo": "./Быкова Елена.png"
+	},
+{
 		"date": "07.08.2024",
 		"time": "10:00",
 		"city": "Москва",
-		"lesson_name": "Практическое занятие «Безопасные методы и приемы выполнения работ (пп. Б п. 46 ПП РФ №2464)",
+		"lesson_name": "Практическое занятие «Безопасные методы и приемы выполнения работ (пп. Б п. 46 ПП РФ № 2464)»",
 		"teacher_name": "Гревцева Ольга",
 		"description": "Руководитель направления «Актион Охрана труда», преподаватель дополнительного профессионального образования Высшей школы Охрана труда",
 		"link_offline": "https://seminar.trudohrana.ru/seminar/46313-prakticheskoe-zanyatie-bezopasnye-metody-i-priemy-vypolneniya-rabot-pp-b-p-46-pp-rf-2464",
 		"link_online": "https://seminar.trudohrana.ru/seminar/46314-prakticheskoe-onlayn-zanyatie-bezopasnye-metody-i-priemy-vypolneniya-rabot-pp-b-p-46-pp-rf",
 		"photo": "./Гревцева Ольга.jpg"
 	},
-	{
-		"date": "",
-		"time": "",
-		"city": "",
-		"lesson_name": "",
-		"teacher_name": "",
-		"description": "",
-		"link_offline": "",
+{
+		"date": "26.08.2024",
+		"time": "10:00",
+		"city": "Санкт-Петербург",
+		"lesson_name": "Практическое занятие «Безопасные методы и приемы выполнения работ (пп. Б п. 46 ПП РФ № 2464)»",
+		"teacher_name": "Можейко Ольга",
+		"description": "Преподаватель Высшей школы Охраны труда",
+		"link_offline": "https://seminar.trudohrana.ru/seminar/46289-prakticheskoe-zanyatie-bezopasnye-metody-i-priemy-vypolneniya-rabot-pp-b-p-46-pp-rf-2464-g",
 		"link_online": "",
-		"photo": ""
+		"photo": "./Можейко Ольга.jpg"
 	},
-	{
-		"date": "",
-		"time": "",
-		"city": "",
-		"lesson_name": "",
-		"teacher_name": "",
-		"description": "",
-		"link_offline": "",
-		"link_online": "",
-		"photo": ""
+{
+		"date": "13.08.2024",
+		"time": "10:00",
+		"city": "Москва",
+		"lesson_name": "Практическое занятие «Обучение по использованию средств индивидуальной защиты»",
+		"teacher_name": "Шустов Анатолий",
+		"description": "Преподаватель Высшей школы охраны труда",
+		"link_offline": "https://seminar.trudohrana.ru/seminar/46317-prakticheskoe-zanyatie-obuchenie-po-ispolzovaniyu-sredstv-individualnoy-zashchity",
+		"link_online": "https://seminar.trudohrana.ru/seminar/46318-prakticheskoe-onlayn-zanyatie-obuchenie-po-ispolzovaniyu-sredstv-individualnoy-zashchity",
+		"photo": "./Шустов Анатолий.jpg"
 	},
-	{
-		"date": "",
-		"time": "",
-		"city": "",
-		"lesson_name": "",
-		"teacher_name": "",
-		"description": "",
-		"link_offline": "",
-		"link_online": "",
-		"photo": ""
+{
+		"date": "27.08.2024",
+		"time": "10:00",
+		"city": "Москва",
+		"lesson_name": " Практическое занятие «Обучение по использованию средств индивидуальной защиты»",
+		"teacher_name": "Шустов Анатолий",
+		"description": "Преподаватель Высшей школы охраны труда",
+		"link_offline": " https://seminar.trudohrana.ru/seminar/46319-prakticheskoe-zanyatie-obuchenie-po-ispolzovaniyu-sredstv-individualnoy-zashchity ",
+		"link_online": " https://seminar.trudohrana.ru/seminar/46320-prakticheskoe-onlayn-zanyatie-obuchenie-po-ispolzovaniyu-sredstv-individualnoy-zashchity ",
+		"photo": "./ Шустов Анатолий.jpg"
 	},
-	{
+{
+		"date": "29.08.2024",
+		"time": "10:00",
+		"city": "Москва",
+		"lesson_name": "Практическое занятие «Безопасные методы и приемы выполнения работ (пп. Б п. 46 ПП РФ № 2464)»",
+		"teacher_name": "Гревцева Ольга",
+		"description": "Руководитель направления «Актион Охрана труда», преподаватель дополнительного профессионального образования Высшей школы Охрана труда",
+		"link_offline": " https://seminar.trudohrana.ru/seminar/46315-prakticheskoe-zanyatie-bezopasnye-metody-i-priemy-vypolneniya-rabot-pp-b-p-46-pp-rf-2464 ",
+		"link_online": " https://seminar.trudohrana.ru/seminar/46316-prakticheskoe-onlayn-zanyatie-bezopasnye-metody-i-priemy-vypolneniya-rabot-pp-b-p-46-pp-rf ",
+		"photo": "./Гревцева Ольга.jpg"
+	},
+{
 		"date": "",
 		"time": "",
 		"city": "",
@@ -96,6 +140,32 @@
 		"description": "",
 		"link_offline": "",
 		"link_online": "",
-		"photo": ""
+		"photo": "./"
+	},
+{
+		"date": "",
+		"time": "",
+		"city": "",
+		"lesson_name": "",
+		"teacher_name": "",
+		"description": "",
+		"link_offline": "",
+		"link_online": "",
+		"photo": "./"
 	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
