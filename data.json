@@ -10,7 +10,7 @@
 		"link_online": "https://seminar.trudohrana.ru/seminar/46297-prakticheskoe-onlayn-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve",
 		"photo": "./Кизиков Дмитрий.jpg"
 	},
-{
+	{
 		"date": "09.08.2024",
 		"time": "10:00",
 		"city": "Краснодар",
@@ -21,7 +21,7 @@
 		"link_online": "",
 		"photo": "./Ясинский Анатолий.jpg"
 	},
-{
+	{
 		"date": "09.08.2024",
 		"time": "10:00",
 		"city": "Екатеринбург",
@@ -32,7 +32,7 @@
 		"link_online": "",
 		"photo": "./Быкова Елена.png"
 	},
-{
+	{
 		"date": "19.08.2024",
 		"time": "10:00",
 		"city": "Санкт-Петербург",
@@ -43,7 +43,7 @@
 		"link_online": "",
 		"photo": "./Можейко Ольга.jpg"
 	},
-{
+	{
 		"date": "22.08.2024",
 		"time": "10:00",
 		"city": "Краснодар",
@@ -54,7 +54,7 @@
 		"link_online": "",
 		"photo": "./Ясинский Анатолий.jpg"
 	},
-{
+	{
 		"date": "22.08.2024",
 		"time": "10:00",
 		"city": "Москва",
@@ -65,7 +65,7 @@
 		"link_online": "https://seminar.trudohrana.ru/seminar/46299-prakticheskoe-onlayn-zanyatie-okazanie-pervoy-pomoshchi-postradavshim-na-proizvodstve",
 		"photo": "./Кизиков Дмитрий.jpg"
 	},
-{
+	{
 		"date": "26.08.2024",
 		"time": "10:00",
 		"city": "Екатеринбург",
@@ -76,7 +76,7 @@
 		"link_online": "",
 		"photo": "./Быкова Елена.png"
 	},
-{
+	{
 		"date": "07.08.2024",
 		"time": "10:00",
 		"city": "Москва",
@@ -87,7 +87,7 @@
 		"link_online": "https://seminar.trudohrana.ru/seminar/46314-prakticheskoe-onlayn-zanyatie-bezopasnye-metody-i-priemy-vypolneniya-rabot-pp-b-p-46-pp-rf",
 		"photo": "./Гревцева Ольга.jpg"
 	},
-{
+	{
 		"date": "26.08.2024",
 		"time": "10:00",
 		"city": "Санкт-Петербург",
@@ -98,7 +98,7 @@
 		"link_online": "",
 		"photo": "./Можейко Ольга.jpg"
 	},
-{
+	{
 		"date": "13.08.2024",
 		"time": "10:00",
 		"city": "Москва",
@@ -109,7 +109,7 @@
 		"link_online": "https://seminar.trudohrana.ru/seminar/46318-prakticheskoe-onlayn-zanyatie-obuchenie-po-ispolzovaniyu-sredstv-individualnoy-zashchity",
 		"photo": "./Шустов Анатолий.jpg"
 	},
-{
+	{
 		"date": "27.08.2024",
 		"time": "10:00",
 		"city": "Москва",
@@ -120,7 +120,7 @@
 		"link_online": " https://seminar.trudohrana.ru/seminar/46320-prakticheskoe-onlayn-zanyatie-obuchenie-po-ispolzovaniyu-sredstv-individualnoy-zashchity ",
 		"photo": "./ Шустов Анатолий.jpg"
 	},
-{
+	{
 		"date": "29.08.2024",
 		"time": "10:00",
 		"city": "Москва",
@@ -131,7 +131,7 @@
 		"link_online": " https://seminar.trudohrana.ru/seminar/46316-prakticheskoe-onlayn-zanyatie-bezopasnye-metody-i-priemy-vypolneniya-rabot-pp-b-p-46-pp-rf ",
 		"photo": "./Гревцева Ольга.jpg"
 	},
-{
+	{
 		"date": "",
 		"time": "",
 		"city": "",
@@ -142,7 +142,7 @@
 		"link_online": "",
 		"photo": "./"
 	},
-{
+	{
 		"date": "",
 		"time": "",
 		"city": "",
@@ -153,19 +153,4 @@
 		"link_online": "",
 		"photo": "./"
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
